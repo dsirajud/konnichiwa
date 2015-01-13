@@ -1,1 +1,1 @@
-new file about erlang, what is erlang?
+# new file in erlang
